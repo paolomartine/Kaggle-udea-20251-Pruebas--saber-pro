@@ -10,3 +10,9 @@ Entrega 2
 video para ver en youtube
 https://youtu.be/gAnYZbcaPLk
 
+Entrega final
+03 - modelo xgboost
+04 - modelo regresion logistica
+video para ver en youtube
+https://youtu.be/6dGKons-O9Q
+
